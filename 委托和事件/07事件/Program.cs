@@ -31,20 +31,25 @@ namespace _07事件
         static void Main(string[] args)
         {
             //实例化事件发布者
-            RunSporters runsporter = new RunSporters();
-            //实例化事件订阅者
             Judgment judgment = new Judgment();
+            //实例化事件订阅者
+            RunSporters runsporter = new RunSporters();
 
             /// 订阅事件
             /// 订阅事件的语法如下：
             /// 事件名+=new 委托名（方法名）;
             /// 这里就是当事件eventRun发生了，他的订阅者RUnsport的Run函数开始执行
             /// 委托实例添加到产生事件对象的事件列表中去，这个过程又叫订阅事件。
+            ///
+            /// 注意订阅事件的可以是委托对象，也可以直接是一个函数（可以是匿名函数或Lambda表达式）
+            /// 只要这个函数的返回值类型和签名与委托事件一致即可
+
+
 
             // 在发布器Judgment类中的委托delegateRun()调用订阅器RunSporters类中的事件处理程序Run()。
             judgment.eventRun += new Judgment.delegateRun(runsporter.Run);
 
-
+            judgment.eventRun += runsporter.RunFail;
 
             ///执行引发事件的方法，这句代码之后事件的订阅者中的事件处理程序Run()开始运行
             judgment.Begin();
@@ -53,6 +58,8 @@ namespace _07事件
 
             Console.ReadKey();
         }
+
+      
     }
 
 
@@ -101,6 +108,11 @@ namespace _07事件
         public void Run()
         {
             Console.WriteLine("运动员跑起来了");
+        }
+
+        public void RunFail()
+        {
+            Console.WriteLine("有一个起跑失败");
         }
     }
 

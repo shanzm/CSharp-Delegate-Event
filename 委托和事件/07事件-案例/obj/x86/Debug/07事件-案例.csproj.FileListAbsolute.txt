@@ -2,3 +2,5 @@ D:\Documents\Visual Studio 2010\Projects\委托\07事件-案例\bin\Debug\07事�
 D:\Documents\Visual Studio 2010\Projects\委托\07事件-案例\bin\Debug\07事件-案例.pdb
 D:\Documents\Visual Studio 2010\Projects\委托\07事件-案例\obj\x86\Debug\07事件-案例.exe
 D:\Documents\Visual Studio 2010\Projects\委托\07事件-案例\obj\x86\Debug\07事件-案例.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\07事件-案例\obj\x86\Debug\07事件-案例.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\07事件-案例\obj\x86\Debug\07事件-案例.pdb

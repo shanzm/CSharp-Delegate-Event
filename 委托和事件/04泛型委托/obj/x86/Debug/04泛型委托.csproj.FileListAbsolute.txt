@@ -2,3 +2,5 @@ D:\Documents\Visual Studio 2010\Projects\委托\04泛型委托\bin\Debug\04泛�
 D:\Documents\Visual Studio 2010\Projects\委托\04泛型委托\bin\Debug\04泛型委托.pdb
 D:\Documents\Visual Studio 2010\Projects\委托\04泛型委托\obj\x86\Debug\04泛型委托.exe
 D:\Documents\Visual Studio 2010\Projects\委托\04泛型委托\obj\x86\Debug\04泛型委托.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\04泛型委托\obj\x86\Debug\04泛型委托.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\04泛型委托\obj\x86\Debug\04泛型委托.pdb

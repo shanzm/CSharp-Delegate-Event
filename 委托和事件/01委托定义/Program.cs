@@ -6,7 +6,9 @@ using System.Text;
 namespace _01委托定义
 {
     ///定义：委托是C#中函数回调机制，就是c语言中的函数指针在面向对象中的封装；
-    ///     是一个类，它定义了方法的类型，使得可以将方法当作另一个方法的参数来进行传递。
+    ///     它定义了方法的类型，使得可以将方法当作另一个方法的参数来进行传递。
+    ///     
+    ///     委托和类相似，都是用户自定义的一种类型，只不过类表示的数据的集合，而委托表示的是一个或多个方法
     ///     
     ///理解：类比“string name ”，其中string 是一个类，定义了name参数所能代表的值的种类，也就是name参数的类型。
     ///
@@ -69,7 +71,10 @@ namespace _01委托定义
             //不使用SayHi函数，在新建了了委托对象后直接使用委托作函数
             //注:当然我们知道可以在这里直接使用SayhiChinese和SayHiEnglish俩个函数，我们在这里就是举例子
             DelSayhi del = new DelSayhi(SayhiChinese);
-            del("张三");
+            if (null != del)//注意调用委托的时候一定要先判断委托是否为空，为空时会抛异常
+            {
+                del("张三");
+            }
 
             Console.ReadKey();
 
@@ -81,7 +86,6 @@ namespace _01委托定义
         ///所以我定义了一个委托DelSayhi指向这两个函数
         /// </summary>
         /// <param name="name"></param>
-        /// <param name="?"></param>
         public static void Sayhi(string name, DelSayhi del)
         {
             del(name);

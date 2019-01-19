@@ -6,3 +6,8 @@ D:\Documents\Visual Studio 2010\Projects\委托\08观察者（Observer）设计�
 D:\Documents\Visual Studio 2010\Projects\委托\08观察者（Observer）设计模式\obj\x86\Debug\08观察值（Observer）设计模式.pdb
 D:\Documents\Visual Studio 2010\Projects\委托\08观察者（Observer）设计模式\bin\Debug\08观察值（Observer）设计模式.exe
 D:\Documents\Visual Studio 2010\Projects\委托\08观察者（Observer）设计模式\bin\Debug\08观察值（Observer）设计模式.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\08观察者（Observer）设计模式\obj\x86\Debug\08观察值（Observer）设计模式.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\08观察者（Observer）设计模式\obj\x86\Debug\08观察值（Observer）设计模式.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\08观察者（Observer）设计模式\bin\Debug\08观察值（Observer）设计模式.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\08观察者（Observer）设计模式\bin\Debug\08观察值（Observer）设计模式.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\08观察者（Observer）设计模式\obj\x86\Debug\08观察者（Observer）设计模式.csprojResolveAssemblyReference.cache

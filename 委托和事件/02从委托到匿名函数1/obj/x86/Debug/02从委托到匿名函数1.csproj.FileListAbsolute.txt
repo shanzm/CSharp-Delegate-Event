@@ -2,3 +2,8 @@ D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数1\obj\
 D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数1\obj\x86\Debug\02委托到匿名函数.pdb
 D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数1\bin\Debug\02委托到匿名函数.exe
 D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数1\bin\Debug\02委托到匿名函数.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\02从委托到匿名函数1\obj\x86\Debug\02委托到匿名函数.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\02从委托到匿名函数1\obj\x86\Debug\02委托到匿名函数.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\02从委托到匿名函数1\bin\Debug\02委托到匿名函数.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\02从委托到匿名函数1\bin\Debug\02委托到匿名函数.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\02从委托到匿名函数1\obj\x86\Debug\02从委托到匿名函数1.csprojResolveAssemblyReference.cache

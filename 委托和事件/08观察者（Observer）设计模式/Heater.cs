@@ -29,8 +29,9 @@ namespace _08观察者_Observer_设计模式
     public class Heater
     {
         private int temperature;
-        public delegate void BoilHandler(int param);   //声明委托
-        public event BoilHandler BoilEvent;            //声明事件
+         public delegate void BoilHandler(int param);   //声明委托
+         public event BoilHandler BoilEvent;            //声明事件
+
 
         // 烧水
         public void BoilWater()
