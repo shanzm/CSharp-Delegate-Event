@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数2\bin\Debug\02从委托到匿名函数2.exe
+D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数2\bin\Debug\02从委托到匿名函数2.pdb
+D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数2\obj\x86\Debug\02从委托到匿名函数2.exe
+D:\Documents\Visual Studio 2010\Projects\委托\02从委托到匿名函数2\obj\x86\Debug\02从委托到匿名函数2.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\02从委托到匿名函数2\obj\x86\Debug\02从委托到匿名函数2.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\02从委托到匿名函数2\obj\x86\Debug\02从委托到匿名函数2.pdb
+F:\ForGit\CSharp-Delegate-Event\02从委托到匿名函数2\bin\Debug\02从委托到匿名函数2.exe
+F:\ForGit\CSharp-Delegate-Event\02从委托到匿名函数2\bin\Debug\02从委托到匿名函数2.pdb
+F:\ForGit\CSharp-Delegate-Event\02从委托到匿名函数2\obj\x86\Debug\02从委托到匿名函数2.exe
+F:\ForGit\CSharp-Delegate-Event\02从委托到匿名函数2\obj\x86\Debug\02从委托到匿名函数2.pdb

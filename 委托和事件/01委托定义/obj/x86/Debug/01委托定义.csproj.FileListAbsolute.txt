@@ -1,6 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\委托\01委托定义\bin\Debug\01委托定义.exe
-D:\Documents\Visual Studio 2010\Projects\委托\01委托定义\bin\Debug\01委托定义.pdb
-D:\Documents\Visual Studio 2010\Projects\委托\01委托定义\obj\x86\Debug\01委托定义.exe
-D:\Documents\Visual Studio 2010\Projects\委托\01委托定义\obj\x86\Debug\01委托定义.pdb
-F:\ForGit\CSharp-Delegate-Event\委托和事件\01委托定义\obj\x86\Debug\01委托定义.exe
-F:\ForGit\CSharp-Delegate-Event\委托和事件\01委托定义\obj\x86\Debug\01委托定义.pdb

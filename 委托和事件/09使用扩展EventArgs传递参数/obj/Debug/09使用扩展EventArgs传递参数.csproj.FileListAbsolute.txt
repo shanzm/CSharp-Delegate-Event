@@ -1,6 +1,0 @@
-F:\ForGit\CSharp-Delegate-Event\委托和事件\09使用扩展EventArgs传递参数\bin\Debug\09使用扩展EventArgs传递参数.exe.config
-F:\ForGit\CSharp-Delegate-Event\委托和事件\09使用扩展EventArgs传递参数\bin\Debug\09使用扩展EventArgs传递参数.exe
-F:\ForGit\CSharp-Delegate-Event\委托和事件\09使用扩展EventArgs传递参数\bin\Debug\09使用扩展EventArgs传递参数.pdb
-F:\ForGit\CSharp-Delegate-Event\委托和事件\09使用扩展EventArgs传递参数\obj\Debug\09使用扩展EventArgs传递参数.csprojResolveAssemblyReference.cache
-F:\ForGit\CSharp-Delegate-Event\委托和事件\09使用扩展EventArgs传递参数\obj\Debug\09使用扩展EventArgs传递参数.exe
-F:\ForGit\CSharp-Delegate-Event\委托和事件\09使用扩展EventArgs传递参数\obj\Debug\09使用扩展EventArgs传递参数.pdb

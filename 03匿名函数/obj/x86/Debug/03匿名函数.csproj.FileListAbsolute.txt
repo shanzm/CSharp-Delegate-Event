@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2010\Projects\委托\03匿名函数\bin\Debug\03匿名函数.exe
+D:\Documents\Visual Studio 2010\Projects\委托\03匿名函数\bin\Debug\03匿名函数.pdb
+D:\Documents\Visual Studio 2010\Projects\委托\03匿名函数\obj\x86\Debug\03匿名函数.exe
+D:\Documents\Visual Studio 2010\Projects\委托\03匿名函数\obj\x86\Debug\03匿名函数.pdb
+F:\ForGit\CSharp-Delegate-Event\委托和事件\03匿名函数\obj\x86\Debug\03匿名函数.exe
+F:\ForGit\CSharp-Delegate-Event\委托和事件\03匿名函数\obj\x86\Debug\03匿名函数.pdb
+F:\ForGit\CSharp-Delegate-Event\03匿名函数\bin\Debug\03匿名函数.exe
+F:\ForGit\CSharp-Delegate-Event\03匿名函数\bin\Debug\03匿名函数.pdb
+F:\ForGit\CSharp-Delegate-Event\03匿名函数\obj\x86\Debug\03匿名函数.exe
+F:\ForGit\CSharp-Delegate-Event\03匿名函数\obj\x86\Debug\03匿名函数.pdb
